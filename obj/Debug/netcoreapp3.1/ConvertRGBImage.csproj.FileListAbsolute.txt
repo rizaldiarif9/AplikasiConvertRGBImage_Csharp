@@ -1,0 +1,16 @@
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.exe
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.deps.json
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.runtimeconfig.json
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.runtimeconfig.dev.json
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.dll
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\bin\Debug\netcoreapp3.1\ConvertRGBImage.pdb
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.csproj.AssemblyReference.cache
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.Form1.resources
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.csproj.GenerateResource.cache
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.AssemblyInfoInputs.cache
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.AssemblyInfo.cs
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.dll
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.pdb
+C:\Users\ASUS\AplikasiConvertRGBImage_CSharp\ConvertRGBImage\obj\Debug\netcoreapp3.1\ConvertRGBImage.genruntimeconfig.cache
